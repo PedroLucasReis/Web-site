@@ -1,0 +1,48 @@
+#all{
+
+	height:100%;
+
+	width:100%;
+
+	margin:auto;
+}
+
+#titulo{
+	text-align:center;
+}
+
+#fundo{
+	background-color:#F0FFFF;
+}
+
+#barra{
+	background-color:#00FFFF;
+	margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+
+	
+body{
+    margin: 0 auto;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+
+th{
+	font-family: arial;
+	color:
+}
+
+p.corpo{
+	text-align:center;
+	background-color:#F0FFFF	;
+	margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
